@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pramodbirla
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Drupal
+- 🌱 I’m experienced Drupal Developer 7/8/9/10
+- Drupal Migration , Custom Module, Custom theming , Composer , Drush , Php , Html , css , scss , bootstrap barrio , mysql , jquery.
 - 💞️ I’m looking to collaborate on drupal websites development
 - 📫 pramodbirla95@gmail.com
 
